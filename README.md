@@ -13,12 +13,12 @@ Genetic algorithm optimization (Models 3–5)
 Regularization techniques (Models 6–7: Ridge and Lasso)
 The Lasso-penalized model (Model 7) was selected as the final model, achieving an AUC of 0.854 with excellent calibration (intercept = -0.0069, slope = 0.963). Key predictors identified include:
 
-Age
-Smoking history
-Charlson comorbidity index
-Hypertension
-Dyspnea
-Chronic heart failure
+Age,
+Smoking history,
+Charlson comorbidity index,
+Hypertension,
+Dyspnea,
+Chronic heart failure and
 Reduced oxygen saturation
 
 🤝 Acknowledgments
